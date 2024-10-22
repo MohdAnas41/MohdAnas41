@@ -22,9 +22,8 @@ I'm a **BSc Non-Medical Graduate** with a passion for **Data Science**, **Python
 Check out my Kaggle profile: [Mohd Anas](#)
 
 ## 🔗 Connect with me:
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue)][(https://www.linkedin.com/in/mohd-anas-900a7530b/)]
-[![Kaggle](https://img.shields.io/badge/-Kaggle-black)](https://www.kaggle.com/yourkaggle)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mohd-anas-900a7530b/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-black)](https://www.kaggle.com/mohdanasjdjdndr)
 <!---
 MohdAnas41/MohdAnas41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
